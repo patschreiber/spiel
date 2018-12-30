@@ -1,0 +1,13 @@
+body {
+  font-family: 'Consolas', 'Courier', monospace;
+  font-size: 14px;
+}
+.super-wide {
+  width: 750px;
+}
+.wide {
+  width: 500px;
+}
+.thin {
+  width: 300px;
+}
